@@ -34,6 +34,7 @@ How to contribute?
 
 ## Disclaimer
 - We have referenced several materials while creating the cards all the rights to content that has been added is reserved to the respective owners
+- If you haveany issues feel free to email us at dxk1124@gmail.com
 ## References
 1. 
 
