@@ -47,6 +47,22 @@ Importing decks
 - MML 375 - Steel Making Technology
 - MML 382 - Solidification Processing and Advanced Foundry Technology
 
+### Additional Resources
+
+- Digital Notes - The following are notes that were taken during the Online Semester(CoVID-19 Era)
+    - SEM 3
+        - TOM - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/SkyJJTJJY/edit
+        - MPT - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/S1XXnakkF/edit
+        - IMSE - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/Hy_ft1xyF/edit
+        - EPM - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/SJ74tswJF/edit
+    - SEM 4
+        - CM - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/ryX3Kee2K
+        - PM - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/rkrO4BW2F
+        - TP - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/BkbC4Sb2F
+        - DSA - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/H1ay9xl2Y
+        - TTHT - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/HyLMrSWnF
+        - MTK - https://hackmd.io/@HnlvODbMQIiAlpHchdZpDQ/HyriNSW2K
+
 ## Contribution 
 
 - Its always good to give back to community! You can also contribute to the existing collection of cards.
